@@ -1,0 +1,76 @@
+[
+    {
+        "1": "WHO IS WITH ARJUNA BEFORE THE BATTEL BEGINS ?",
+        "2": "WHO ASSEMBLES THE ARMY OF PANDAVAS?",
+        "3": "WHAT IS THE LITERARY MEANING OF GEETA ?",
+        "4": "HOW MANY CHAPTERS(ADHYAY)ARE THERE IN GEETA ?",
+        "5": "WHO WAS NARRATING THE GEETA TO DHRITRASHTRA  ?",
+        "6": "ARJUNA AND HIS BROTHERS CALLED  ?",
+        "7": "ARJUNAS BOW IS CALLED ?",
+        "8": "WHO HAD THE KNOWLEDGE OF GEETA BEFORE ARJUNA ?",
+        "9": "NAME THE CHAPTER OF MAHABHARAT WHERE GEETA APPEARS ?",
+        "10": "HOW MANY YEARS AGO DID KRISHNA GIVE THE SAMONS OF THE GEETA?"
+    },
+    {
+        "1": [
+            "SANJAYA",
+            "DHRITRASHTRA",
+            "SHRI KRISHNA",
+            "SHAKUNI"
+        ],
+        "2": [
+            "SANJAYA",
+            "DRONAA",
+            "YUDHISHTHIRA",
+            "KRISHNA"
+        ],
+        "3": [
+            "SONG OF RAIN",
+            "SONG OF LORD",
+            "SONG OF BIRDS",
+            "SONG OF BATTLE"
+        ],
+        "4": [
+            "10",
+            "18",
+            "20",
+            "15"
+        ],
+        "5": [
+            "SANJAYA",
+            "ARJUNA",
+            "BALRAM",
+            "YUDHISHTHER"
+        ],
+        "6": [
+            "KAURAVAS",
+            "VRISHTHIS",
+            "PANDAVS",
+            "GANDHARI"
+        ],
+        "7": [
+            "GANDHARI",
+            "GANDIVA",
+            "GANGA",
+            "GAURI"
+        ],
+        "8": [
+            "THE SON GOD",
+            "BHEEM",
+            "GANGA",
+            "VED VIYAS"
+        ],
+        "9": [
+            "CHAPTER SHANTI PARVA",
+            "CHAPTER UPNAISHD",
+            "CHAPTER VYASA",
+            "CHAPTER VYASA PARVA"
+        ],
+        "10": [
+            "AROUND 7000 YEAR AGO",
+            "AROUND 5000 YEAR AGO",
+            "AROUND 1000 YEAR AGO",
+            "AROUND 2000 YEAR AGO"
+        ]
+    }
+]
